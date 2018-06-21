@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\colores.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\colores.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\cyan.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\cyan.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\verde.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\verde.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_horiz_24dp_wht.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_background.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\action_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\rojo.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\rojo.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\binary.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\binary.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\close_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\amarillo.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\amarillo.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\magenta.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\magenta.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\close_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_icon_background.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\action_item_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\amarillo.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\amarillo.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\rojo.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\rojo.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\azul.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\azul.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\random.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\random.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\cyan.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\cyan.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_background.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\action_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\verde.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\verde.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\colores.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\colores.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\informacion.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\informacion.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\random.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\random.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\magenta.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\magenta.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_icon_background.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\action_item_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_vert_24dp_wht.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\ic_more_vert_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\binary.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\binary.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_horiz_24dp_wht.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\informacion.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\informacion.png"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_vert_24dp_wht.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\drawable\\ic_more_vert_24dp_wht.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\drawable\\azul.png",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\drawable\\azul.png"
+    }
+]

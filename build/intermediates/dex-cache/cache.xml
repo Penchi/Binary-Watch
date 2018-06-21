@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_0b37c169c3beafa71f71bc083589f5393b2cafb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_3f4fa173cabc1995b3b5abd6176f103a7729eb04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_5cfd5db83b9a1bb87c7c47a852ee1987798b417f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_b20f229dece7430f6b2f8bdc849f7559a7256c0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_594a34d13ced66554379f8c79cdd11e1806c4561\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_9ae181132e5718ccc8ccc6ed3b63e470f0736b9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_347d842ae31ce8cfe17da5b533fa8edd6013838a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_fdec203f58d0389d0a8712553324e0ef02b12f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programacion\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_3077c56402fb0b1343160dbd03cd4a0bc562ab71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_ff4b2d40fd3f54bfaa6b65c95f8cd121760bd7f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_754c5267f7b01a48fe41fee28f1a5199cbaaf27a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_d023d60c938f726d2f3b55216a313bfd5a9de817\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_4a1a33d379f2cf2e011c71ea7af80fd4c909b187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_7d1e93790742bbc6dd1ba713de219a3153821a14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_4c291797ec2c9123a3d1be554f569f93369f1a70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_89eedb25fcb2a02f4f10d88dee31f39eee653be8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_30eae197c9e9ac77df947b23f8497c350cc67e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_73eddccfd254fd6a9e00bf65660fb18a1523dffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_826acb36a99967b85fbe3e944de621da0e1c4513\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_19bd18b68d6e5d830d9db26ceb6d58a9fe63eb97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_56d3c4b7bbeb9745b3dd76be1ab413d69ad688e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_0925b3cb7ff8b47250c83804f81dcccb141b8651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_ddd42087112932f221acabf4374ce3732986cf9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_40aba461d3d980a80f84c6a92bd9f84cb0c62d92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_b0df3976c03cd309112e88767b92f1cad2b12943\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_32d29c75f433d62d5a5e73e05e3cb8e6ded5d511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8b66f8eebd3bf29a2e019deb7177e357b43ecca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_b52435164e059a0b573fc4a0f19817276407c9f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_acfa68f8a712f58a8f1efe30342fe771b8e9cb97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_9b0b65c1c576c39d5d1423c1fd2cd0ccadf7ef06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_f7e1a2998ff208f1860de1f44b891c2e6b713215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_92e0399ba556ae70697316ed64a222616dda0df1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_7bf4e1ce9af72d07246f3fe4f6dc96f56c01a536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_c7647999f391c06b46a2efce04cd926c7c65c68f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_294c9de99de55ee70ed0f62f26d163f7c535c047\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_49badaf436d6c427466012b4603081f4b14c143b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1b9630b0c6aa1ece5a42c3615cc0409dc5e14532">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_70c153e7977c63ebd48d4336354fd0f9c6d9222a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_602bef4e559dc6cbfc98a619bfadaae52a454917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_6371813ba2e57d3209ceb0c3f2aa00b1d45a1d92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_dddf229d406438f82a6772fffaa80166d02c24c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aaf991ff0a7909f329898a98ee4deca1c55e70a2">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d709aa6ee3120a9f1c0af45e66fa978e3cb3fb93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_622841eb8cde023f89a06ab2aba88be1ad3ce046\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_b862b055ab291d101efa9bda0311947d0c1a06c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_47ead7ee6c8c0a8f478680d2730d518daeba6653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_531159d685691f010a0fcd4c824dfc4d2ae640af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_c06d07dc49e2ab22f8ac0b9ac64f0dfdc3088b31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_85e456f6ceb7359e23c4c6a19aea6f34823f895d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_5de83ac4909794ae90d2cfa25d08b33d26532365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_99cccbeea56925e66cd6cced292c3458b35ace8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_e6591980b804b4dd2e89f517458de8b2602a95d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_ef6961050cfa586655fe49f439de1d635a8396d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_209882a67228256de7ce683dfd6891959fbf0c2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_396066fd07342fad1eefda17f18160aa3953e2c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_90fffe118e93e44914a3f7d6814e22ede729c3e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_86960311fc28d2e11449d8ca4400c5c0b6204cee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_47ffc7e366ec64ba4217a0919d30ed5ded2cb242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_cfb826ccf80323d1883315e1862d39bd8cd04993\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_d70e165c37a2bbfd49bc171be7f5ac20f548de4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_b818c3ad9a638592796bb013acf849a0b660d5de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_9f9f58f8b606edacfc9fb4514784e2e8e4bb39b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_9c758332a13fb1d19d847e8290373fb33939f5bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_423e74f2786b3aa2317c94e9c886577cd47d6c03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_f84e4611b2678a1513bac5fa5320099fbd1a502f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_e10640bcd3f794da33ae0e4ea9ef3590f7697ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_9482a318993af45dd04a7bc79603971f10f5ae76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_9587400f7a6fc13ec9821ab0b54e578dd67b7a87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\orlan\Desktop\Binarywatch\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_c1f8cb1cd31003d24f8b9f7e9045ebf1c66cafa7\classes.dex" />
+    </item>
+
+</items>

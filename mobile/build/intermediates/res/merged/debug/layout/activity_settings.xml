@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.sigmabrio.penchi.binarywatch.Settings"
+    android:background="#ffffff">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/titulo"
+        android:id="@+id/lblTitulo"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textIsSelectable="false"
+        android:textSize="30sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <CheckBox
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:text="@string/horas"
+        android:id="@+id/cbHoras"
+        android:textColor="#000000"
+        android:layout_alignTop="@+id/cbMinutos"
+        android:layout_alignParentStart="true"
+        android:textSize="14sp"
+        android:buttonTint="@android:color/holo_orange_light" />
+
+    <CheckBox
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:text="@string/minutos"
+        android:id="@+id/cbMinutos"
+        android:textColor="#000000"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:textSize="14sp"
+        android:buttonTint="@android:color/holo_orange_light" />
+
+    <CheckBox
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:text="@string/segundos"
+        android:id="@+id/cbSegundos"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:buttonTint="@android:color/holo_orange_light"
+        android:layout_above="@+id/horizontalScrollView"
+        android:layout_toEndOf="@+id/cbMinutos" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:id="@+id/horizontalScrollView"
+        android:layout_below="@+id/cbHoras"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="5dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentStart="false"
+            android:baselineAligned="false"
+            android:nestedScrollingEnabled="false"
+            android:orientation="vertical"
+            android:measureWithLargestChild="false"
+            android:minHeight="150dp">
+
+            <ImageButton
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:id="@+id/verdeBtn"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/verde"
+                android:onClick="CambiarColor" />
+
+            <ImageButton
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:id="@+id/rojoBtn"
+                android:layout_marginTop="-75dp"
+                android:layout_marginLeft="125dp"
+                android:background="@drawable/rojo"
+                android:onClick="CambiarColor" />
+
+            <ImageButton
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:id="@+id/azulBtn"
+                android:layout_marginTop="-75dp"
+                android:layout_marginLeft="225dp"
+                android:background="@drawable/azul"
+                android:onClick="CambiarColor" />
+
+            <ImageButton
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:id="@+id/amarilloBtn"
+                android:layout_marginTop="-75dp"
+                android:layout_marginLeft="325dp"
+                android:background="@drawable/amarillo"
+                android:onClick="CambiarColor" />
+
+            <ImageButton
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:id="@+id/cyanBtn"
+                android:layout_marginTop="-75dp"
+                android:layout_marginLeft="425dp"
+                android:background="@drawable/cyan"
+                android:onClick="CambiarColor" />
+
+            <ImageButton
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:id="@+id/magentaBtn"
+                android:layout_marginTop="-75dp"
+                android:layout_marginLeft="525dp"
+                android:background="@drawable/magenta"
+                android:onClick="CambiarColor" />
+
+            <ImageButton
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:id="@+id/randomBtn"
+                android:layout_marginTop="-75dp"
+                android:layout_marginLeft="625dp"
+                android:background="@drawable/random"
+                android:onClick="CambiarColor" />
+
+            <TextView
+                android:layout_width="75dp"
+                android:layout_height="25dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/verde"
+                android:id="@+id/verdeTxt"
+                android:layout_marginLeft="25dp"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="17.5dp" />
+
+            <TextView
+                android:layout_width="75dp"
+                android:layout_height="25dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/rojo"
+                android:id="@+id/rojoTxt"
+                android:layout_marginLeft="125dp"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="17.5dp"
+                android:layout_marginTop="-25dp" />
+
+            <TextView
+                android:layout_width="75dp"
+                android:layout_height="25dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/azul"
+                android:id="@+id/azulTxt"
+                android:layout_marginLeft="225dp"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="17.5dp"
+                android:layout_marginTop="-25dp" />
+
+            <TextView
+                android:layout_width="75dp"
+                android:layout_height="25dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/amarillo"
+                android:id="@+id/amarilloTxt"
+                android:layout_marginLeft="325dp"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="17.5dp"
+                android:layout_marginTop="-25dp" />
+
+            <TextView
+                android:layout_width="75dp"
+                android:layout_height="25dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/cyan"
+                android:id="@+id/cyanTxt"
+                android:layout_marginLeft="425dp"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="17.5dp"
+                android:layout_marginTop="-25dp" />
+
+            <TextView
+                android:layout_width="75dp"
+                android:layout_height="25dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/magenta"
+                android:id="@+id/magentaTxt"
+                android:layout_marginLeft="525dp"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="17.5dp"
+                android:layout_marginTop="-25dp" />
+
+            <TextView
+                android:layout_width="75dp"
+                android:layout_height="25dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/randomTxt"
+                android:id="@+id/randomTxt"
+                android:layout_marginLeft="625dp"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="17.5dp"
+                android:layout_marginTop="-25dp" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/horizontalScrollView"
+        android:id="@+id/radioGroup"
+        android:layout_marginTop="5dp">
+
+        <RadioButton
+            android:layout_width="125dp"
+            android:layout_height="35dp"
+            android:text="@string/cuadrado"
+            android:id="@+id/cuadradoRb"
+            android:textColor="#000000"
+            android:layout_alignTop="@+id/circuloRb"
+            android:layout_toStartOf="@+id/formatoTbtn"
+            android:textSize="20dp"
+            android:buttonTint="@android:color/holo_orange_light"
+            android:onClick="Figuras"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="130dp" />
+
+        <RadioButton
+            android:layout_width="125dp"
+            android:layout_height="35dp"
+            android:text="@string/circulo"
+            android:id="@+id/circuloRb"
+            android:textColor="#000000"
+            android:checked="false"
+            android:layout_below="@+id/horizontalScrollView"
+            android:layout_toEndOf="@+id/cbMinutos"
+            android:textSize="20sp"
+            android:buttonTint="@android:color/holo_orange_light"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginTop="-35dp"
+            android:onClick="Figuras" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/Figura"
+            android:id="@+id/textView2"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#000000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:layout_below="@+id/segundosTxt"
+            android:layout_marginTop="-30dp" />
+    </RadioGroup>
+
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/radioGroup"
+        android:id="@+id/radioGroup2" >
+
+        <RadioButton
+            android:layout_width="125dp"
+            android:layout_height="35dp"
+            android:text="@string/Negro"
+            android:id="@+id/negroRb"
+            android:textColor="#000000"
+            android:layout_alignTop="@+id/blancoRb"
+            android:layout_toStartOf="@+id/formatoTbtn"
+            android:textSize="20dp"
+            android:buttonTint="@android:color/holo_orange_light"
+            android:layout_marginTop="10dp"
+            android:onClick="Fondo"
+            android:layout_marginRight="130dp"
+            android:layout_gravity="right" />
+
+        <RadioButton
+            android:layout_width="125dp"
+            android:layout_height="35dp"
+            android:text="@string/Blanco"
+            android:id="@+id/blancoRb"
+            android:textColor="#000000"
+            android:checked="false"
+            android:layout_below="@+id/horizontalScrollView"
+            android:layout_toEndOf="@+id/cbMinutos"
+            android:textSize="20sp"
+            android:buttonTint="@android:color/holo_orange_light"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginTop="-35dp"
+            android:onClick="Fondo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/Fondo"
+            android:id="@+id/textView3"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#000000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:layout_below="@+id/segundosTxt"
+            android:layout_marginTop="-30dp" />
+    </RadioGroup>
+
+    <ToggleButton
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="New ToggleButton"
+        android:id="@+id/segunderoTbtn"
+        android:checked="false"
+        android:onClick="Segundero"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/radioGroup2"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/segundero"
+        android:id="@+id/segundosTxt"
+        android:textColor="#000000"
+        android:layout_alignEnd="@+id/segunderoTbtn"
+        android:layout_below="@+id/segunderoTbtn"
+        android:layout_alignParentStart="true"
+        android:textAlignment="center"
+        android:textSize="15sp" />
+
+    <ToggleButton
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="New ToggleButton"
+        android:id="@+id/formatoTbtn"
+        android:onClick="Formato"
+        android:layout_above="@+id/minutosTxt"
+        android:layout_toEndOf="@id/segunderoTbtn"
+        android:layout_marginLeft="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/formato"
+        android:id="@+id/minutosTxt"
+        android:layout_alignTop="@+id/segundosTxt"
+        android:textColor="#000000"
+        android:layout_alignBottom="@+id/segundosTxt"
+        android:layout_alignStart="@+id/formatoTbtn"
+        android:layout_alignEnd="@+id/formatoTbtn"
+        android:textAlignment="center"
+        android:textSize="15sp" />
+
+    <ToggleButton
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="New ToggleButton"
+        android:id="@+id/fechaTbtn"
+        android:onClick="Fecha"
+        android:layout_above="@+id/minutosTxt"
+        android:layout_toEndOf="@id/formatoTbtn"
+        android:layout_marginLeft="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/fecha"
+        android:id="@+id/horasTxt"
+        android:layout_alignBottom="@+id/minutosTxt"
+        android:textColor="#000000"
+        android:layout_below="@+id/fechaTbtn"
+        android:layout_alignStart="@+id/fechaTbtn"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        android:layout_toStartOf="@+id/ayudaTbtn" />
+
+    <ToggleButton
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="New ToggleButton"
+        android:id="@+id/ayudaTbtn"
+        android:onClick="Ayuda"
+        android:layout_above="@+id/minutosTxt"
+        android:layout_toEndOf="@id/fechaTbtn"
+        android:layout_marginLeft="15dp"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/Ayuda"
+        android:id="@+id/ayudaTxt"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        android:layout_alignEnd="@+id/ayudaTbtn"
+        android:layout_below="@+id/ayudaTbtn"
+        android:layout_alignStart="@+id/ayudaTbtn" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/desarrollado"
+        android:id="@+id/creditosTxt"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_below="@+id/segundosTxt"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/sugerencias"
+        android:id="@+id/textView"
+        android:layout_below="@+id/creditosTxt"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/imageView"
+        android:background="@drawable/twitter"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/cbMinutos"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="\@P3nchi"
+        android:id="@+id/twitterTxt"
+        android:layout_toEndOf="@+id/imageView"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:singleLine="false"
+        android:paddingTop="5dp"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_marginTop="10dp" />
+
+</RelativeLayout>

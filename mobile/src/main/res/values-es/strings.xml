@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Binary watch</string>
+    <string name="titulo">Configuración</string>
+    <string name="Nombre_reloj">Reloj binario</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="title_activity_config_activity">config_activity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="personalizar">Personalizar</string>
+    <string name="colores">Colores</string>
+    <string name="title_activity_colores">ColoresActivity</string>
+    <string name="horas">Horas</string>
+    <string name="minutos">Minutos</string>
+    <string name="segundos">Segundero</string>
+    <string name="verde">Verde</string>
+    <string name="rojo">Rojo</string>
+    <string name="azul">Azul</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="segundero">Segundos</string>
+    <string name="acercaDe">Acerca de</string>
+    <string name="figuras">Figuras</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="circulo">Circulo</string>
+    <string name="toastColoresExito">Cambios realizados</string>
+    <string name="toastColoresError">Selecciona un componente</string>
+    <string name="randomTxt">Aleatorio</string>
+    <string name="formato">24 Horas</string>
+    <string name="title_activity_creditos">CreditosActivity</string>
+    <string name="sugerencias">Sugerencias a</string>
+    <string name="desarrollado">Desarrollado por Aarón Angulo</string>
+    <string name="fecha">Fecha</string>
+    <string name="Ayuda">Ayuda</string>
+    <string name="Blanco">Blanco</string>
+    <string name="Negro">Negro</string>
+    <string name="Figura">Figura</string>
+    <string name="Fondo">Fondo</string>
+</resources>

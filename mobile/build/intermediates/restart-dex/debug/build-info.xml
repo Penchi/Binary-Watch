@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="265719931092807"
+    token="2507910473723653710"
+    verifier="MANIFEST_FILE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="249" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="33" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\orlan\Desktop\Binarywatch\mobile\build\outputs\apk\mobile-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="265719931092807"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="C:\Users\orlan\Desktop\Binarywatch\mobile\build\outputs\apk\mobile-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

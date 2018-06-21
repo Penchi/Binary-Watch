@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\mobile\\build\\intermediates\\res\\merged\\release\\raw\\android_wear_micro_apk.apk",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\mobile\\build\\generated\\res\\microapk\\release\\raw\\android_wear_micro_apk.apk"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\mobile\\build\\intermediates\\res\\merged\\release\\raw\\gtm_analytics",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\mobile\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn-rIN\\values-kn-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 94,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\values-kn-rIN\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 94,
+                        "endOffset": 352
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn-rIN\\values-kn-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 94,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\values-kn-rIN\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 94,
+                        "endOffset": 352
+                    }
+                }
+            }
+        ]
+    }
+]

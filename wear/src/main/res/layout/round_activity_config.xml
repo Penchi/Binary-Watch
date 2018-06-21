@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.sigmabrio.penchi.binarywatch.ConfigActivity"
+    tools:deviceIds="wear_round">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:minHeight="850dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/personalizar"
+                android:id="@+id/textView"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp" />
+
+            <ImageButton
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:id="@+id/ColoresBtn"
+                android:background="@drawable/colores"
+                android:onClick="MostrarColores"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="75dp"
+                android:layout_marginStart="25dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/figuras"
+                android:id="@+id/textView3"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:layout_below="@+id/ColoresBtn" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/textView3"
+                android:layout_alignStart="@id/ColoresBtn"
+                android:weightSum="1"
+                android:id="@+id/rgFiguras">
+
+                <RadioButton
+                    android:layout_width="150dp"
+                    android:layout_height="55dp"
+                    android:text="@string/cuadrado"
+                    android:id="@+id/cuadradoRb"
+                    android:layout_below="@+id/ColoresBtn"
+                    android:layout_alignLeft="@+id/ColoresBtn"
+                    android:layout_weight="1.06"
+                    android:textSize="20dp"
+                    android:onClick="Figuras" />
+
+                <RadioButton
+                    android:layout_width="150dp"
+                    android:layout_height="55dp"
+                    android:text="@string/circulo"
+                    android:id="@+id/circuloRb"
+                    android:layout_below="@+id/cuadradoRb"
+                    android:layout_alignLeft="@+id/ColoresBtn"
+                    android:textSize="20dp"
+                    android:onClick="Figuras" />
+
+            </RadioGroup>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/Fondo"
+                android:id="@+id/rbFondo"
+                android:layout_gravity="center_horizontal"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:layout_below="@+id/rgFiguras" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="1"
+                android:layout_below="@+id/rbFondo"
+                android:layout_alignStart="@+id/rgFiguras"
+                android:id="@+id/rgFondo">
+
+                <RadioButton
+                    android:layout_width="150dp"
+                    android:layout_height="55dp"
+                    android:text="@string/Negro"
+                    android:id="@+id/negroRb"
+                    android:layout_below="@+id/ColoresBtn"
+                    android:layout_alignLeft="@+id/ColoresBtn"
+                    android:layout_weight="1.06"
+                    android:textSize="20dp"
+                    android:onClick="Fondo" />
+
+                <RadioButton
+                    android:layout_width="150dp"
+                    android:layout_height="55dp"
+                    android:text="@string/Blanco"
+                    android:id="@+id/blancoRb"
+                    android:layout_below="@+id/negroRb"
+                    android:layout_alignLeft="@+id/ColoresBtn"
+                    android:textSize="20dp"
+                    android:onClick="Fondo" />
+            </RadioGroup>
+
+            <ToggleButton
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:id="@+id/segunderoTbtn"
+                android:layout_alignParentEnd="false"
+                android:checked="true"
+                android:layout_alignParentStart="false"
+                android:layout_alignLeft="@+id/ColoresBtn"
+                android:onClick="Segundero"
+                android:layout_below="@+id/rgFondo" />
+
+            <ToggleButton
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:text="New ToggleButton"
+                android:id="@+id/formatoTbtn"
+                android:layout_below="@+id/segunderoTbtn"
+                android:layout_alignLeft="@+id/ColoresBtn"
+                android:longClickable="true"
+                android:onClick="Formato"
+                android:layout_marginTop="20dp" />
+
+            <ToggleButton
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:text="New ToggleButton"
+                android:id="@+id/fechaTbtn"
+                android:layout_below="@+id/formatoTbtn"
+                android:layout_alignLeft="@+id/ColoresBtn"
+                android:longClickable="true"
+                android:onClick="Fecha"
+                android:layout_marginTop="20dp" />
+
+            <ToggleButton
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:text="New ToggleButton"
+                android:id="@+id/ayudaTbtn"
+                android:layout_below="@+id/fechaTbtn"
+                android:layout_alignLeft="@+id/ColoresBtn"
+                android:longClickable="true"
+                android:onClick="Ayuda"
+                android:layout_marginTop="20dp" />
+
+            <ImageButton
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:id="@+id/acercaDeBtn"
+                android:background="@drawable/informacion"
+                android:onClick="AcercaDe"
+                android:layout_alignStart="@+id/ColoresBtn"
+                android:layout_below="@+id/ayudaTbtn"
+                android:layout_marginTop="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/colores"
+                android:id="@+id/coloresTxt"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/ColoresBtn"
+                android:layout_alignTop="@+id/ColoresBtn"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/segundero"
+                android:id="@+id/segunderoTxt"
+                android:layout_toEndOf="@+id/segunderoTbtn"
+                android:layout_alignTop="@+id/segunderoTbtn"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/formato"
+                android:id="@+id/formatoTxt"
+                android:layout_alignTop="@+id/formatoTbtn"
+                android:layout_toEndOf="@id/formatoTbtn"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/fecha"
+                android:id="@+id/fechaTxt"
+                android:layout_alignTop="@+id/fechaTbtn"
+                android:layout_toEndOf="@id/formatoTbtn"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/Ayuda"
+                android:id="@+id/ayudaTxt"
+                android:layout_alignTop="@+id/ayudaTbtn"
+                android:layout_toEndOf="@id/formatoTbtn"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/acercaDe"
+                android:id="@+id/acercaDeTxt"
+                android:layout_alignTop="@+id/acercaDeBtn"
+                android:layout_toEndOf="@id/acercaDeBtn"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

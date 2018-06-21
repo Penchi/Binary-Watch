@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sigmabrio.penchi.binarywatch.CreditosActivity"
+    tools:deviceIds="wear_round">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/Twitter"
+        android:background="@drawable/twitter"
+        android:layout_below="@+id/sugerenciasTxt"
+        android:layout_alignStart="@+id/sugerenciasTxt"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="\@P3nchi"
+        android:id="@+id/twitterTxt"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_alignBottom="@+id/Twitter"
+        android:layout_alignEnd="@+id/sugerenciasTxt" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/sugerencias"
+        android:id="@+id/sugerenciasTxt"
+        android:layout_below="@+id/desarrolladoTxt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/desarrollado"
+        android:id="@+id/desarrolladoTxt"
+        android:autoText="false"
+        android:singleLine="false"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="57dp" />
+</RelativeLayout>

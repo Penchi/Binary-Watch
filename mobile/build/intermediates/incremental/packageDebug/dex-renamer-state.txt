@@ -1,0 +1,7 @@
+#Sat Oct 15 15:13:11 MST 2016
+base.0=C\:\\Users\\orlan\\Desktop\\Binarywatch\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_70c153e7977c63ebd48d4336354fd0f9c6d9222a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\orlan\\Desktop\\Binarywatch\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d709aa6ee3120a9f1c0af45e66fa978e3cb3fb93\\classes.dex
+base.1=C\:\\Users\\orlan\\Desktop\\Binarywatch\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d709aa6ee3120a9f1c0af45e66fa978e3cb3fb93
+file.0=C\:\\Users\\orlan\\Desktop\\Binarywatch\\mobile\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_70c153e7977c63ebd48d4336354fd0f9c6d9222a\\classes.dex

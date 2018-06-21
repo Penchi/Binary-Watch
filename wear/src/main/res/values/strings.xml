@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Binary Watch</string>
+    <string name="Nombre_reloj">Binary Watch</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="title_activity_config_activity">config_activity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="personalizar">Personalize</string>
+    <string name="colores">Colors</string>
+    <string name="title_activity_colores">ColorsActivity</string>
+    <string name="horas">Hours</string>
+    <string name="minutos">Minutes</string>
+    <string name="segundos">Seconds</string>
+    <string name="verde">Green</string>
+    <string name="rojo">Red</string>
+    <string name="azul">Blue</string>
+    <string name="amarillo">Yellow</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="segundero">Seconds</string>
+    <string name="acercaDe">About</string>
+    <string name="figuras">Figures</string>
+    <string name="cuadrado">Square</string>
+    <string name="circulo">Circle</string>
+    <string name="toastColoresExito">Changes made</string>
+    <string name="toastColoresError">Select a component</string>
+    <string name="randomTxt">Random</string>
+    <string name="formato">24 Hours</string>
+    <string name="title_activity_creditos">CreditsActivity</string>
+    <string name="sugerencias">Suggestions to</string>
+    <string name="desarrollado">Developed by Aarón Angulo</string>
+    <string name="fecha">Date</string>
+    <string name="Ayuda">Help</string>
+    <string name="Negro">Black</string>
+    <string name="Blanco">White</string>
+    <string name="Fondo">BackGround</string>
+</resources>

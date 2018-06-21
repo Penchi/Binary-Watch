@@ -1,0 +1,859 @@
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+  %04X:
+  %08X:
+  /cmdline
+  /handledConfig
+  /handledPeticion
+  /proc/
+  /wearConfig
+  ACTION_ACCESSIBILITY_FOCUS
+  ACTION_CLEAR_ACCESSIBILITY_FOCUS
+  ACTION_CLEAR_FOCUS
+  ACTION_CLEAR_SELECTION
+  ACTION_CLICK
+  ACTION_COPY
+  ACTION_CUT
+  ACTION_FOCUS
+  ACTION_LONG_CLICK
+  ACTION_NEXT_AT_MOVEMENT_GRANULARITY
+  ACTION_NEXT_HTML_ELEMENT
+  ACTION_PASTE
+  ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY
+  ACTION_PREVIOUS_HTML_ELEMENT
+  ACTION_SCROLL_BACKWARD
+  ACTION_SCROLL_FORWARD
+  ACTION_SELECT
+  ACTION_SET_SELECTION
+  ACTION_UNKNOWN
+  ADD
+  API_NOT_CONNECTED
+  API_UNAVAILABLE
+  API_VERSION_UPDATE_REQUIRED
+  ASSET_UNAVAILABLE
+  ATTACH
+  AccountAccessor
+  AutoManageHelper
+  BasePendingResult
+  Boolean
+  CANCELED
+  CAUSE_NETWORK_LOST
+  CAUSE_SERVICE_DISCONNECTED
+  CHANNEL_CLOSED
+  CHANNEL_OPENED
+  CLOSE_REASON_DISCONNECTED
+  CLOSE_REASON_LOCAL_CLOSE
+  CLOSE_REASON_NORMAL
+  CLOSE_REASON_REMOTE_CLOSE
+  CONNECTED
+  CONNECTING
+  CanvasWatchFaceService
+  ChannelEventParcelable
+  ClickableViewAccessibility
+  CompositeGAC
+  ConnectionTracker
+  DATA_ITEM_TOO_LARGE
+  DEAD_CLIENT
+  DETACH
+  DEVELOPER_ERROR
+  DISCONNECTED
+  DISCONNECTING
+  DRIVE_EXTERNAL_STORAGE_REQUIRED
+  DUPLICATE_LISTENER
+  DataBuffer
+  DataItem
+  DataMap
+  DialogRedirect
+  DynamiteModule
+  ERROR
+  FragmentActivity
+  FragmentManager
+  GACStateManager
+  GAC_Executor
+  GAC_Transform
+  GmsClient
+  GmsClientEvents
+  GmsClientSupervisor
+  GoogleApiActivity
+  GoogleApiAvailability
+  GoogleApiCleanup
+  GoogleApiClientConnecting
+  GoogleApiClientImpl
+  GoogleApiManager
+  GoogleCertificates
+  GooglePlayServicesErrorDialog
+  GooglePlayServicesUpdatingDialog
+  GooglePlayServicesUtil
+  GoogleSignatureVerifier
+  HIDE
+  ICON
+  IMAGE_STYLE
+  INPUT_CLOSED
+  INTERNAL_ERROR
+  INTERRUPTED
+  INVALID_ACCOUNT
+  INVALID_TARGET_NODE
+  Integer
+  LARGE_IMAGE
+  LICENSE_CHECK_FAILED
+  LONG_TEXT
+  LONG_TITLE
+  LayoutInflaterCompatHC
+  LifecycleFragmentImpl
+  LoaderManager
+  MAX_VALUE
+  MIN_VALUE
+  MODULE_ID
+  MODULE_VERSION
+  MetadataValueReader
+  ModuleDescriptor
+  NETWORK_ERROR
+  NULL
+  NotificationCompat
+  OUTPUT_CLOSED
+  Operations:
+  ProcessUtils
+  REMOVE
+  REPLACE
+  RESOLUTION_REQUIRED
+  RESTRICTED_PROFILE
+  Removed:
+  RtlHardcoded
+  SAFE_PARCELABLE_NULL_STRING
+  SERVICE_DISABLED
+  SERVICE_INVALID
+  SERVICE_MISSING
+  SERVICE_MISSING_PERMISSION
+  SERVICE_UPDATING
+  SERVICE_VERSION_UPDATE_REQUIRED
+  SHORT_TEXT
+  SHORT_TITLE
+  SHOW
+  SIGN_IN_FAILED
+  SIGN_IN_MODE_NONE
+  SIGN_IN_MODE_OPTIONAL
+  SIGN_IN_MODE_REQUIRED
+  SIGN_IN_REQUIRED
+  SMALL_IMAGE
+  STEP_GETTING_REMOTE_SERVICE
+  STEP_SERVICE_BINDINGS_AND_SIGN_IN
+  SUCCESS
+  SUCCESS_CACHE
+  SignIn.API
+  SignIn.INTERNAL_API
+  SignInClientImpl
+  SupportLifecycleFragmentImpl
+  TAP_ACTION
+  TARGET_NODE_NOT_CONNECTED
+  TIMEOUT
+  Theme.Dialog.Alert
+  TransformedResultImpl
+  UNFINISHED
+  UNKNOWN
+  UNKNOWN_LISTENER
+  UPDATE_ANDROID_WEAR
+  UidVerifier
+  UntrackedBindService
+  VALUE
+  ViewPager
+  WatchFaceService
+  WatchViewStub
+  Wearable.API
+  WearableClient
+  _
+  acceptsTapEvents
+  airplane_mode
+  allowFreeFormInput
+  ambientPeekMode
+  ambient_mode
+  android
+  android.hardware.type.watch
+  android.intent.action.DATE_CHANGED
+  android.intent.action.PACKAGE_ADDED
+  android.intent.action.TIMEZONE_CHANGED
+  android.intent.action.TIME_SET
+  android.intent.action.TIME_TICK
+  android.intent.action.VIEW
+  android.people
+  android.settings.APPLICATION_DETAILS_...
+  android.support.actionExtras
+  android.support.groupKey
+  android.support.isGroupSummary
+  android.support.localOnly
+  android.support.remoteInputs
+  android.support.sortKey
+  android.support.useSideChannel
+  android.support.wearable.watchface.IW...
+  android.wallpaper.tap
+  android.wallpaper.touch
+  android.wallpaper.touch_cancel
+  android:backStackId
+  android:cancelable
+  android:fragment:
+  android:savedDialogState
+  android:showsDialog
+  android:style
+  android:support:fragments
+  android:target_req_state
+  android:target_state
+  android:theme
+  android:user_visible_hint
+  android:view_state
+  anonClient
+  app
+  appops
+  asset_id
+  asset_key
+  authClient
+  ayuda
+  backgroundVisibility
+  binder
+  cachedSize
+  cardPeekMode
+  cardProgressMode
+  card_location
+  changed
+  charging
+  choices
+  circles
+  class
+  com.android.vending
+  com.google
+  com.google.android.clockwork.home.UPD...
+  com.google.android.gms
+  com.google.android.gms.auth.GetToken
+  com.google.android.gms.chimera.contai...
+  com.google.android.gms.common.GoogleC...
+  com.google.android.gms.common.interna...
+  com.google.android.gms.common.interna...
+  com.google.android.gms.common.interna...
+  com.google.android.gms.common.interna...
+  com.google.android.gms.common.interna...
+  com.google.android.gms.common.interna...
+  com.google.android.gms.common.interna...
+  com.google.android.gms.common.stats.E...
+  com.google.android.gms.common.stats.G...
+  com.google.android.gms.dynamic.IObjec...
+  com.google.android.gms.dynamite.IDyna...
+  com.google.android.gms.dynamite.descr...
+  com.google.android.gms.flags
+  com.google.android.gms.flags.IFlagPro...
+  com.google.android.gms.googlecertific...
+  com.google.android.gms.signin
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.interna...
+  com.google.android.gms.signin.service...
+  com.google.android.gms.version
+  com.google.android.gms.wearable.BIND
+  com.google.android.gms.wearable.DATA_...
+  com.google.android.gms.wearable.inter...
+  com.google.android.gms.wearable.inter...
+  com.google.android.gms.wearable.inter...
+  com.google.android.gms.wearable.inter...
+  com.google.android.providers.gsf.perm...
+  com.google.android.wearable.action.AM...
+  com.google.android.wearable.action.BA...
+  com.google.android.wearable.action.CO...
+  com.google.android.wearable.action.RE...
+  com.google.android.wearable.action.SE...
+  com.google.android.wearable.action.SE...
+  com.google.android.wearable.api.version
+  com.google.android.wearable.app
+  com.google.android.wearable.app.cn
+  com.google.android.wearable.app.cn.UP...
+  com.google.android.wearable.watchface...
+  com.google.app.id
+  common_google_play_services_api_unava...
+  common_google_play_services_invalid_a...
+  common_google_play_services_invalid_a...
+  common_google_play_services_network_e...
+  common_google_play_services_network_e...
+  common_google_play_services_resolutio...
+  common_google_play_services_resolutio...
+  common_google_play_services_restricte...
+  common_google_play_services_restricte...
+  common_google_play_services_sign_in_f...
+  common_google_play_services_sign_in_f...
+  complication_data
+  complication_id
+  component
+  config
+  connected
+  d
+  data
+  default
+  defaultGoogleSignInAccount
+  deleted
+  displayName
+  email
+  error_code
+  event_type
+  expirationTime
+  extras
+  failed_client_id
+  failed_resolution
+  failed_status
+  failing_client_id
+  familyName
+  fecha
+  figura
+  find
+  fondo
+  formato
+  fragment
+  gcore_
+  get
+  givenName
+  gms:common:stats:connections:ignored_...
+  gms:common:stats:connections:ignored_...
+  gms:common:stats:connections:ignored_...
+  gms:common:stats:connections:ignored_...
+  gms:common:stats:connections:level
+  gms:common:stats:connections:time_out...
+  gms:common:stats:max_chunk_size
+  gms:common:stats:max_num_of_events
+  googleSignInAccount
+  google_sdk_flags
+  gps_active
+  grantedScopes
+  has
+  here
+  hideHotwordIndicator
+  hideStatusBar
+  horas
+  hotwordIndicatorGravity
+  http
+  http://plus.google.com/
+  id
+  indicator_status
+  interruption_filter
+  label
+  layout_inflater
+  low_bit_ambient
+  mFactory2
+  market://details
+  message
+  minutos
+  notification
+  notification_count
+  notify_manager
+  null
+  obfuscatedIdentifier
+  onLoadFinished
+  onLoaderReset
+  onSurfaceChanged
+  onSurfaceCreated
+  onSurfaceRedrawNeeded
+  package
+  path
+  pcampaignid
+  peekOpacityMode
+  pendingIntent
+  pending_intent
+  peticion
+  photoUrl
+  power
+  profile
+  r
+  resolution
+  resolving_error
+  restricted_profile
+  resultKey
+  segundero
+  segundos
+  serverAuthCode
+  service_esmobile
+  service_googleme
+  set
+  setChildrenDrawingOrderEnabled
+  showSystemUiTime
+  showUnreadIndicator
+  statusBarGravity
+  statusCode
+  string
+  tap_time
+  theater_mode
+  tokenId
+  translationZ
+  true
+  unknown
+  unread_count
+  user
+  viewProtectionMode
+  watch_face_visible
+  wear
+Marking id:segunderoTbtn:2131755088 used because its prefix matches string pool constant segundero
+Marking id:segunderoTxt:2131755094 used because its prefix matches string pool constant segundero
+Marking string:segundero:2131230769 used because its prefix matches string pool constant segundero
+Marking string:horas:2131230763 used because its prefix matches string pool constant horas
+Marking id:formatoTbtn:2131755089 used because its prefix matches string pool constant formato
+Marking id:formatoTxt:2131755095 used because its prefix matches string pool constant formato
+Marking string:formato:2131230760 used because its prefix matches string pool constant formato
+Marking color:ambient_mode_text:2131689473 used because its prefix matches string pool constant ambient_mode
+Marking id:message:2131755051 used because its prefix matches string pool constant message
+Marking declare-styleable:WatchViewStub:-1 used because its prefix matches string pool constant WatchViewStub
+Marking styleable:WatchViewStub:-1 used because its prefix matches string pool constant WatchViewStub
+Marking string:minutos:2131230765 used because its prefix matches string pool constant minutos
+Marking id:ayudaTbtn:2131755091 used because its prefix matches string pool constant ayuda
+Marking id:ayudaTxt:2131755097 used because its prefix matches string pool constant ayuda
+Marking string:app_name:2131230751 used because its prefix matches string pool constant app
+Marking id:fechaTbtn:2131755090 used because its prefix matches string pool constant fecha
+Marking id:fechaTxt:2131755096 used because its prefix matches string pool constant fecha
+Marking string:fecha:2131230758 used because its prefix matches string pool constant fecha
+Marking attr:android_textColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_maxLines:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontFamily:-1 used because its prefix matches string pool constant android
+Marking attr:android_typeface:-1 used because its prefix matches string pool constant android
+Marking attr:android_textStyle:-1 used because its prefix matches string pool constant android
+Marking attr:android_text:-1 used because its prefix matches string pool constant android
+Marking attr:android_gravity:-1 used because its prefix matches string pool constant android
+Marking attr:android_lineSpacingExtra:-1 used because its prefix matches string pool constant android
+Marking attr:android_lineSpacingMultiplier:-1 used because its prefix matches string pool constant android
+Marking attr:android_src:-1 used because its prefix matches string pool constant android
+Marking attr:android_color:-1 used because its prefix matches string pool constant android
+Marking attr:android_elevation:-1 used because its prefix matches string pool constant android
+Marking attr:android_stateListAnimator:-1 used because its prefix matches string pool constant android
+Marking attr:android_orientation:-1 used because its prefix matches string pool constant android
+Marking attr:android_foregroundGravity:-1 used because its prefix matches string pool constant android
+Marking attr:android_foreground:-1 used because its prefix matches string pool constant android
+Marking attr:android_measureAllChildren:-1 used because its prefix matches string pool constant android
+Marking attr:android_foregroundTint:-1 used because its prefix matches string pool constant android
+Marking string:figuras:2131230759 used because its prefix matches string pool constant figura
+Marking id:wearable_support_action_drawer_item_icon:2131755040 used because its prefix matches string pool constant wear
+Marking id:wearable_support_action_drawer_item_text:2131755041 used because its prefix matches string pool constant wear
+Marking id:wearable_support_action_drawer_peek_action_icon:2131755042 used because its prefix matches string pool constant wear
+Marking id:wearable_support_action_drawer_peek_overflow_icon:2131755043 used because its prefix matches string pool constant wear
+Marking id:wearable_support_confirmation_overlay_image:2131755056 used because its prefix matches string pool constant wear
+Marking id:wearable_support_confirmation_overlay_message:2131755057 used because its prefix matches string pool constant wear
+Marking id:wearable_support_drawer_view_peek_container:2131755105 used because its prefix matches string pool constant wear
+Marking id:wearable_support_drawer_view_peek_icon:2131755106 used because its prefix matches string pool constant wear
+Marking id:wearable_support_navigation_drawer_item_icon:2131755052 used because its prefix matches string pool constant wear
+Marking id:wearable_support_navigation_drawer_item_text:2131755053 used because its prefix matches string pool constant wear
+Marking id:wearable_support_navigation_drawer_page_indicator:2131755054 used because its prefix matches string pool constant wear
+Marking id:wearable_support_navigation_drawer_view_pager:2131755009 used because its prefix matches string pool constant wear
+Marking id:wearable_support_overlay_confirmation:2131755055 used because its prefix matches string pool constant wear
+Marking layout:wearable_drawer_view:2130903058 used because its prefix matches string pool constant wear
+Marking string:segundos:2131230770 used because its prefix matches string pool constant segundos
+Resource Reference Graph:
+anim:generic_confirmation_generic_confirmation_animation:2130968576 => [interpolator:generic_confirmation_animation_interpolator_1:2131099649, interpolator:generic_confirmation_animation_interpolator_0:2131099648]
+anim:generic_confirmation_icon_animation:2130968577 => [interpolator:generic_confirmation_animation_interpolator_2:2131099650, interpolator:generic_confirmation_animation_interpolator_3:2131099651]
+anim:open_on_phone_arrow_animation:2130968578 => [interpolator:open_on_phone_animation_interpolator_0:2131099652]
+anim:open_on_phone_path_1_animation:2130968579 => [interpolator:open_on_phone_animation_interpolator_1:2131099653]
+animator:circular_image_button_anim:2131034112 => [dimen:circular_button_elevation_pressed:2131427343, dimen:circular_button_elevation:2131427342]
+color:ambient_mode_text:2131689473 => [color:primary_text_dark:2131689513]
+color:card_grey_text_color:2131689519 => [color:ambient_mode_text:2131689473, color:secondary_text_light:2131689516]
+color:card_text_color:2131689520 => [color:ambient_mode_text:2131689473, color:primary_text_light:2131689514]
+color:circular_button:2131689521 => [color:circular_button_disabled:2131689481, color:circular_button_normal:2131689482]
+color:circular_button_disabled:2131689481 => [color:grey:2131689510]
+color:primary_text_dark:2131689513 => [color:white:2131689518]
+color:primary_text_light:2131689514 => [color:dark_grey:2131689501]
+drawable:card_background:2130837509 => [drawable:card_frame_pressed:2130837511, drawable:card_frame:2130837510]
+drawable:close_button:2130837512 => [dimen:close_button_diameter:2131427344, color:dismiss_close_pressed:2131689507, drawable:ic_full_cancel:2130837559, color:dismiss_close:2131689506]
+drawable:generic_confirmation_animation:2130837558 => [drawable:generic_confirmation:2130837557, anim:generic_confirmation_icon_animation:2130968577, anim:generic_confirmation_generic_confirmation_animation:2130968576]
+drawable:open_on_phone_animation:2130837566 => [drawable:open_on_phone:2130837565, anim:open_on_phone_path_1_animation:2130968579, anim:open_on_phone_arrow_animation:2130968578, anim:open_on_phone_path_2_animation:2130968580]
+layout:action_drawer_item_view:2130903040 => [drawable:action_item_background:2130837504, drawable:action_item_icon_background:2130837505, dimen:action_drawer_item_icon_size:2131427329, dimen:action_drawer_item_icon_padding:2131427328, style:WearableActionDrawerItemText:2131558429]
+layout:action_drawer_peek_view:2130903041 => [dimen:peek_drawer_icon_size:2131427332, drawable:ic_more_vert_24dp_wht:2130837562]
+layout:alert_dialog_wearable:2130903045 => [dimen:diag_content_side_padding:2131427350, dimen:diag_content_top_padding:2131427352, style:Widget_WearDiag_TextView_Title:2131558427, dimen:diag_content_bottom_padding:2131427349, style:Widget_WearDiag_TextView_Message:2131558426, color:dialog_shade_background:2131689504, dimen:diag_button_bottom_padding:2131427346, style:Widget_WearDiag_Button:2131558424]
+layout:dismiss_overlay:2130903046 => [style:DismissOverlayText:2131558404, color:dismiss_overlay_bg:2131689508, color:dismiss_close:2131689506, drawable:ic_full_cancel:2130837559, string:dismiss_overlay_button_label:2131230740, color:dismiss_close_pressed:2131689507]
+layout:error_layout:2130903047 => [color:grey:2131689510, drawable:ic_full_sad:2130837560, style:TextAppearance_Wearable_Medium:2131558408, color:primary_text_dark:2131689513]
+layout:navigation_drawer_item_view:2130903048 => [id:wearable_support_navigation_drawer_item_icon:2131755052]
+layout:overlay_confirmation:2130903050 => [dimen:confirmation_overlay_image_size:2131427331, id:wearable_support_confirmation_overlay_image:2131755056, dimen:confirmation_overlay_text_size:2131427345]
+layout:watch_card_content:2130903057 => [dimen:card_content_padding_rect_top:2131427341, style:CardTitle:2131558402, style:CardText:2131558400]
+layout:wearable_drawer_view:2130903058 => [dimen:peek_drawer_icon_size:2131427332]
+style:CardText:2131558400 => [style:CardTextBase:2131558401]
+style:CardTextBase:2131558401 => [style:CardText:2131558400, style:TextView_Medium_Light:2131558413, color:card_text_color:2131689520]
+style:CardTitle:2131558402 => [style:CardTitleBase:2131558403]
+style:CardTitleBase:2131558403 => [style:CardTitle:2131558402, style:TextView_Medium_Light:2131558413, color:card_grey_text_color:2131689519]
+style:ConfirmationActivity:2131558428 => [color:semitransparent_grey:2131689517]
+style:DismissOverlayText:2131558404 => [style:TextView_Large_Light:2131558411, color:dismiss_close:2131689506, color:primary_text_dark:2131689513]
+style:DotsPageIndicatorStyle:2131558405 => [color:white:2131689518]
+style:PageIndicatorViewStyle:2131558406 => [color:white:2131689518]
+style:TextAppearance_WearDiag:2131558418 => [color:primary_text_dark:2131689513, style:TextAppearance_WearDiag_Button:2131558419, style:TextAppearance_WearDiag_Message:2131558420, style:TextAppearance_WearDiag_Title:2131558421]
+style:TextAppearance_WearDiag_Button:2131558419 => [style:TextAppearance_WearDiag:2131558418, style:TextAppearance:-1]
+style:TextAppearance_WearDiag_Message:2131558420 => [style:TextAppearance_WearDiag:2131558418, style:TextAppearance:-1]
+style:TextAppearance_WearDiag_Title:2131558421 => [style:TextAppearance_WearDiag:2131558418, style:TextAppearance:-1]
+style:TextAppearance_Wearable_Large:2131558407 => [color:primary_text_light:2131689514]
+style:TextAppearance_Wearable_Medium:2131558408 => [color:primary_text_light:2131689514]
+style:TextAppearance_Wearable_Small:2131558409 => [color:primary_text_light:2131689514]
+style:TextView_Large:2131558410 => [style:TextAppearance_Wearable_Large:2131558407, style:TextView_Large_Light:2131558411]
+style:TextView_Large_Light:2131558411 => [style:DismissOverlayText:2131558404, style:TextView_Large:2131558410, style:TextView:-1, style:TextAppearance_Wearable_Large:2131558407]
+style:TextView_Medium:2131558412 => [style:TextAppearance_Wearable_Medium:2131558408, style:TextView_Medium_Light:2131558413]
+style:TextView_Medium_Light:2131558413 => [style:CardTextBase:2131558401, style:CardTitleBase:2131558403, style:TextView_Medium:2131558412, style:TextView:-1, style:TextAppearance_Wearable_Medium:2131558408]
+style:TextView_Small:2131558414 => [style:TextAppearance_Wearable_Small:2131558409, style:TextView_Small_Light:2131558415]
+style:TextView_Small_Light:2131558415 => [style:TextView_Small:2131558414, style:TextView:-1, style:TextAppearance_Wearable_Small:2131558409]
+style:Theme_WearDiag:2131558422 => [style:TextAppearance_WearDiag:2131558418, color:dialog_background:2131689503, style:Widget_WearDiag_Button:2131558424]
+style:Theme_Wearable:2131558416 => [style:@android_Theme_DeviceDefault:-1, style:Theme_Wearable_Modal:2131558417]
+style:Theme_Wearable_Modal:2131558417 => [style:Theme_Wearable:2131558416, style:Theme:-1]
+style:WearableActionDrawerItemText:2131558429 => [dimen:action_drawer_item_text_size:2131427330]
+style:WearableProgressSpinner:2131558430 => [dimen:progress_spinner_size:2131427333, style:WearableProgressSpinner_FullScreen:2131558431, style:WearableProgressSpinner_Inline:2131558432]
+style:WearableProgressSpinner_FullScreen:2131558431 => [style:WearableProgressSpinner:2131558430]
+style:WearableProgressSpinner_Inline:2131558432 => [style:WearableProgressSpinner:2131558430, dimen:progress_spinner_inline_size:2131427359]
+style:Widget_ActionPage:2131558423 => [dimen:circular_button_elevation:2131427342, animator:circular_image_button_anim:2131034112, color:primary_text_dark:2131689513, color:circular_button:2131689521, color:circular_button_pressed:2131689483]
+style:Widget_WearDiag_Button:2131558424 => [style:TextAppearance_WearDiag_Button:2131558419]
+style:Widget_WearDiag_TextView:2131558425 => [style:Widget_WearDiag_TextView_Message:2131558426, style:Widget_WearDiag_TextView_Title:2131558427]
+style:Widget_WearDiag_TextView_Message:2131558426 => [style:Widget_WearDiag_TextView:2131558425, style:Widget_WearDiag:-1, style:Widget:-1, style:TextAppearance_WearDiag_Message:2131558420]
+style:Widget_WearDiag_TextView_Title:2131558427 => [style:Widget_WearDiag_TextView:2131558425, style:Widget_WearDiag:-1, style:Widget:-1, style:TextAppearance_WearDiag_Title:2131558421]
+color:common_google_signin_btn_text_dark:2131689522 => [color:common_google_signin_btn_text_dark_disabled:2131689485, color:common_google_signin_btn_text_dark_pressed:2131689487, color:common_google_signin_btn_text_dark_focused:2131689486, color:common_google_signin_btn_text_dark_default:2131689484]
+color:common_google_signin_btn_text_light:2131689523 => [color:common_google_signin_btn_text_light_disabled:2131689489, color:common_google_signin_btn_text_light_pressed:2131689491, color:common_google_signin_btn_text_light_focused:2131689490, color:common_google_signin_btn_text_light_default:2131689488]
+color:common_plus_signin_btn_text_dark:2131689524 => [color:common_plus_signin_btn_text_dark_disabled:2131689493, color:common_plus_signin_btn_text_dark_pressed:2131689495, color:common_plus_signin_btn_text_dark_focused:2131689494, color:common_plus_signin_btn_text_dark_default:2131689492]
+color:common_plus_signin_btn_text_light:2131689525 => [color:common_plus_signin_btn_text_light_disabled:2131689497, color:common_plus_signin_btn_text_light_pressed:2131689499, color:common_plus_signin_btn_text_light_focused:2131689498, color:common_plus_signin_btn_text_light_default:2131689496]
+drawable:common_google_signin_btn_icon_dark:2130837515 => [drawable:common_google_signin_btn_icon_dark_disabled:2130837516, drawable:common_google_signin_btn_icon_dark_pressed:2130837519, drawable:common_google_signin_btn_icon_dark_focused:2130837517, drawable:common_google_signin_btn_icon_dark_normal:2130837518]
+drawable:common_google_signin_btn_icon_light:2130837520 => [drawable:common_google_signin_btn_icon_light_disabled:2130837521, drawable:common_google_signin_btn_icon_light_pressed:2130837524, drawable:common_google_signin_btn_icon_light_focused:2130837522, drawable:common_google_signin_btn_icon_light_normal:2130837523]
+drawable:common_google_signin_btn_text_dark:2130837525 => [drawable:common_google_signin_btn_text_dark_disabled:2130837526, drawable:common_google_signin_btn_text_dark_pressed:2130837529, drawable:common_google_signin_btn_text_dark_focused:2130837527, drawable:common_google_signin_btn_text_dark_normal:2130837528]
+drawable:common_google_signin_btn_text_light:2130837530 => [drawable:common_google_signin_btn_text_light_disabled:2130837531, drawable:common_google_signin_btn_text_light_pressed:2130837534, drawable:common_google_signin_btn_text_light_focused:2130837532, drawable:common_google_signin_btn_text_light_normal:2130837533]
+drawable:common_plus_signin_btn_icon_dark:2130837536 => [drawable:common_plus_signin_btn_icon_dark_disabled:2130837537, drawable:common_plus_signin_btn_icon_dark_pressed:2130837540, drawable:common_plus_signin_btn_icon_dark_focused:2130837538, drawable:common_plus_signin_btn_icon_dark_normal:2130837539]
+drawable:common_plus_signin_btn_icon_light:2130837541 => [drawable:common_plus_signin_btn_icon_light_disabled:2130837542, drawable:common_plus_signin_btn_icon_light_pressed:2130837545, drawable:common_plus_signin_btn_icon_light_focused:2130837543, drawable:common_plus_signin_btn_icon_light_normal:2130837544]
+drawable:common_plus_signin_btn_text_dark:2130837546 => [drawable:common_plus_signin_btn_text_dark_disabled:2130837547, drawable:common_plus_signin_btn_text_dark_pressed:2130837550, drawable:common_plus_signin_btn_text_dark_focused:2130837548, drawable:common_plus_signin_btn_text_dark_normal:2130837549]
+drawable:common_plus_signin_btn_text_light:2130837551 => [drawable:common_plus_signin_btn_text_light_disabled:2130837552, drawable:common_plus_signin_btn_text_light_pressed:2130837555, drawable:common_plus_signin_btn_text_light_focused:2130837553, drawable:common_plus_signin_btn_text_light_normal:2130837554]
+layout:activity_colores:2130903042 => [layout:rect_activity_colores:2130903051, layout:round_activity_colores:2130903054]
+layout:activity_config:2130903043 => [layout:rect_activity_config:2130903052, layout:round_activity_config:2130903055]
+layout:activity_creditos:2130903044 => [layout:rect_activity_creditos:2130903053, layout:round_activity_creditos:2130903056]
+layout:rect_activity_colores:2130903051 => [id:titulo:2131755061, id:cbMinutos:2131755060, string:horas:2131230763, id:cbSegundos:2131755062, id:cbHoras:2131755059, string:minutos:2131230765, string:segundos:2131230770, string:colores:2131230754, drawable:verde:2130837570, drawable:rojo:2130837568, id:verdeBtn:2131755063, drawable:azul:2130837507, id:rojoBtn:2131755064, drawable:amarillo:2130837506, id:azulBtn:2131755065, drawable:cyan:2130837556, id:amarilloBtn:2131755066, drawable:magenta:2130837564, id:cyanBtn:2131755067, drawable:random:2130837567, id:magentaBtn:2131755068, string:verde:2131230778, id:verdeTxt:2131755070, string:rojo:2131230768, id:rojoTxt:2131755071, string:azul:2131230752, string:amarillo:2131230750, string:cyan:2131230756, string:magenta:2131230764, id:randomBtn:2131755069, id:magentaTxt:2131755075, string:randomTxt:2131230767]
+layout:rect_activity_config:2130903052 => [string:personalizar:2131230766, drawable:colores:2130837513, id:ColoresBtn:2131755079, string:figuras:2131230759, id:textView3:2131755080, string:cuadrado:2131230755, id:cuadradoRb:2131755082, string:circulo:2131230753, id:rgFiguras:2131755081, string:Fondo:2131230746, id:rbFondo:2131755084, string:Negro:2131230747, id:negroRb:2131755086, string:Blanco:2131230745, id:rgFondo:2131755085, id:segunderoTbtn:2131755088, id:formatoTbtn:2131755089, id:fechaTbtn:2131755090, drawable:informacion:2130837563, id:ayudaTbtn:2131755091, string:colores:2131230754, string:segundero:2131230769, string:formato:2131230760, string:fecha:2131230758, string:Ayuda:2131230744, id:acercaDeBtn:2131755092, string:acercaDe:2131230749]
+layout:rect_activity_creditos:2130903053 => [drawable:twitter:2130837569, id:sugerenciasTxt:2131755100, id:Twitter:2131755099, id:desarrolladoTxt:2131755102, string:sugerencias:2131230771, string:desarrollado:2131230757]
+layout:round_activity_colores:2130903054 => [id:titulo:2131755061, id:cbMinutos:2131755060, string:horas:2131230763, id:cbSegundos:2131755062, id:cbHoras:2131755059, string:minutos:2131230765, string:segundos:2131230770, string:colores:2131230754, drawable:verde:2130837570, drawable:rojo:2130837568, id:verdeBtn:2131755063, drawable:azul:2130837507, id:rojoBtn:2131755064, drawable:amarillo:2130837506, id:azulBtn:2131755065, drawable:cyan:2130837556, id:amarilloBtn:2131755066, drawable:magenta:2130837564, id:cyanBtn:2131755067, drawable:random:2130837567, id:magentaBtn:2131755068, string:verde:2131230778, id:verdeTxt:2131755070, string:rojo:2131230768, id:rojoTxt:2131755071, string:azul:2131230752, string:amarillo:2131230750, string:cyan:2131230756, string:magenta:2131230764, id:randomBtn:2131755069, id:magentaTxt:2131755075, string:randomTxt:2131230767]
+layout:round_activity_config:2130903055 => [string:personalizar:2131230766, drawable:colores:2130837513, id:ColoresBtn:2131755079, string:figuras:2131230759, id:textView3:2131755080, string:cuadrado:2131230755, id:cuadradoRb:2131755082, string:circulo:2131230753, id:rgFiguras:2131755081, string:Fondo:2131230746, id:rbFondo:2131755084, string:Negro:2131230747, id:negroRb:2131755086, string:Blanco:2131230745, id:rgFondo:2131755085, id:segunderoTbtn:2131755088, id:formatoTbtn:2131755089, id:fechaTbtn:2131755090, drawable:informacion:2130837563, id:ayudaTbtn:2131755091, string:colores:2131230754, string:segundero:2131230769, string:formato:2131230760, string:fecha:2131230758, string:Ayuda:2131230744, id:acercaDeBtn:2131755092, string:acercaDe:2131230749]
+layout:round_activity_creditos:2130903056 => [drawable:twitter:2130837569, id:sugerenciasTxt:2131755100, id:Twitter:2131755099, id:desarrolladoTxt:2131755102, string:sugerencias:2131230771, string:desarrollado:2131230757]
+style:TextView:-1 => [style:TextView_Large_Light:2131558411, style:TextView_Medium_Light:2131558413, style:TextView_Small_Light:2131558415]
+style:@android_Theme_DeviceDefault:-1 => [style:Theme_Wearable:2131558416]
+style:Theme:-1 => [style:Theme_Wearable_Modal:2131558417]
+style:TextAppearance:-1 => [style:TextAppearance_WearDiag_Button:2131558419, style:TextAppearance_WearDiag_Message:2131558420, style:TextAppearance_WearDiag_Title:2131558421]
+style:Widget_WearDiag:-1 => [style:Widget_WearDiag_TextView_Message:2131558426, style:Widget_WearDiag_TextView_Title:2131558427]
+style:Widget:-1 => [style:Widget_WearDiag_TextView_Message:2131558426, style:Widget_WearDiag_TextView_Title:2131558427]
+
+The root reachable resources are:
+color:ambient_mode_text:2131689473,
+   id:message:2131755051,
+   id:text:2131755104,
+   id:wearable_support_action_drawer_item_icon:2131755040,
+   id:wearable_support_action_drawer_item_text:2131755041,
+   id:wearable_support_action_drawer_peek_action_icon:2131755042,
+   id:wearable_support_action_drawer_peek_overflow_icon:2131755043,
+   id:wearable_support_confirmation_overlay_image:2131755056,
+   id:wearable_support_confirmation_overlay_message:2131755057,
+   id:wearable_support_drawer_view_peek_container:2131755105,
+   id:wearable_support_drawer_view_peek_icon:2131755106,
+   id:wearable_support_navigation_drawer_item_icon:2131755052,
+   id:wearable_support_navigation_drawer_item_text:2131755053,
+   id:wearable_support_navigation_drawer_page_indicator:2131755054,
+   id:wearable_support_navigation_drawer_view_pager:2131755009,
+   id:wearable_support_overlay_confirmation:2131755055,
+   layout:wearable_drawer_view:2130903058,
+   style:PageIndicatorViewStyle:2131558406,
+   style:TextAppearance_WearDiag:2131558418,
+   style:TextAppearance_Wearable_Large:2131558407,
+   style:TextAppearance_Wearable_Medium:2131558408,
+   style:TextAppearance_Wearable_Small:2131558409,
+   style:TextView_Large:2131558410,
+   style:TextView_Medium:2131558412,
+   style:TextView_Small:2131558414,
+   style:Theme_WearDiag:2131558422,
+   style:WearableProgressSpinner:2131558430,
+   style:Widget_ActionPage:2131558423,
+   style:Widget_WearDiag_Button:2131558424,
+   style:Widget_WearDiag_TextView:2131558425,
+   styleable:ActionLabel:-1,
+   styleable:ActionPage:-1,
+   styleable:CircularButton:-1,
+   styleable:PageIndicatorView:-1,
+   declare-styleable:WatchViewStub:-1,
+   styleable:WatchViewStub:-1,
+   drawable:common_full_open_on_phone:2130837514,
+   drawable:common_ic_googleplayservices:2130837535,
+   integer:google_play_services_version:2131820548,
+   string:common_google_play_services_enable_button:2131230720,
+   string:common_google_play_services_enable_text:2131230721,
+   string:common_google_play_services_enable_title:2131230722,
+   string:common_google_play_services_install_button:2131230723,
+   string:common_google_play_services_install_text_phone:2131230724,
+   string:common_google_play_services_install_text_tablet:2131230725,
+   string:common_google_play_services_install_title:2131230726,
+   string:common_google_play_services_notification_ticker:2131230727,
+   string:common_google_play_services_unknown_issue:2131230728,
+   string:common_google_play_services_unsupported_text:2131230729,
+   string:common_google_play_services_unsupported_title:2131230730,
+   string:common_google_play_services_update_button:2131230731,
+   string:common_google_play_services_update_text:2131230732,
+   string:common_google_play_services_update_title:2131230733,
+   string:common_google_play_services_updating_text:2131230734,
+   string:common_google_play_services_updating_title:2131230735,
+   string:common_google_play_services_wear_update_text:2131230736,
+   string:common_open_on_phone:2131230737,
+   drawable:binary:2130837508,
+   id:ayudaTbtn:2131755091,
+   id:ayudaTxt:2131755097,
+   id:blancoRb:2131755087,
+   id:cbHoras:2131755059,
+   id:cbMinutos:2131755060,
+   id:cbSegundos:2131755062,
+   id:circuloRb:2131755083,
+   id:cuadradoRb:2131755082,
+   id:fechaTbtn:2131755090,
+   id:fechaTxt:2131755096,
+   id:formatoTbtn:2131755089,
+   id:formatoTxt:2131755095,
+   id:negroRb:2131755086,
+   id:segunderoTbtn:2131755088,
+   id:segunderoTxt:2131755094,
+   id:watch_view_stub:2131755044,
+   layout:activity_colores:2130903042,
+   layout:activity_config:2130903043,
+   layout:activity_creditos:2130903044,
+   string:Nombre_reloj:2131230748,
+   string:app_name:2131230751,
+   string:fecha:2131230758,
+   string:figuras:2131230759,
+   string:formato:2131230760,
+   string:horas:2131230763,
+   string:minutos:2131230765,
+   string:segundero:2131230769,
+   string:segundos:2131230770,
+   string:title_activity_colores:2131230772,
+   string:title_activity_creditos:2131230775,
+   string:toastColoresError:2131230776,
+   string:toastColoresExito:2131230777,
+   xml:watch_face:2131165184,
+   attr:android_textColor:-1,
+   attr:android_maxLines:-1,
+   attr:android_fontFamily:-1,
+   attr:android_typeface:-1,
+   attr:android_textStyle:-1,
+   attr:android_text:-1,
+   attr:android_gravity:-1,
+   attr:android_lineSpacingExtra:-1,
+   attr:android_lineSpacingMultiplier:-1,
+   attr:android_src:-1,
+   attr:android_color:-1,
+   attr:android_elevation:-1,
+   attr:android_stateListAnimator:-1,
+   attr:android_orientation:-1,
+   attr:android_foregroundGravity:-1,
+   attr:android_foreground:-1,
+   attr:android_measureAllChildren:-1,
+   attr:android_foregroundTint:-1
+Skipped unused resource res/anim-v21/generic_confirmation_generic_confirmation_animation.xml: 1028 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim-v21/generic_confirmation_icon_animation.xml: 2216 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim-v21/open_on_phone_arrow_animation.xml: 576 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim-v21/open_on_phone_path_1_animation.xml: 2204 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/anim-v21/open_on_phone_path_2_animation.xml: 4600 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/color/common_google_signin_btn_text_dark.xml: 716 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/color/common_google_signin_btn_text_light.xml: 716 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/color/common_plus_signin_btn_text_dark.xml: 716 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/color/common_plus_signin_btn_text_light.xml: 716 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-hdpi-v4/card_frame.9.png: 696 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/card_frame_pressed.9.png: 780 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png: 1237 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png: 1948 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png: 1860 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png: 1835 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png: 981 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png: 2051 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png: 1801 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png: 1765 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png: 1299 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png: 2040 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png: 1975 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png: 1953 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png: 1052 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png: 2115 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png: 1916 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png: 1879 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png: 1152 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png: 1600 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png: 1532 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png: 1548 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png: 952 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png: 1752 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png: 1542 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png: 1526 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png: 1223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png: 1706 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png: 1608 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png: 1686 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png: 987 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png: 1844 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png: 1615 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png: 1595 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_full_cancel.png: 594 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_full_sad.png: 1781 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/card_frame.9.png: 456 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/card_frame_pressed.9.png: 477 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png: 884 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png: 1295 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png: 1242 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png: 1221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png: 716 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png: 1375 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png: 1196 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png: 1175 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png: 888 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png: 1330 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png: 1273 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png: 1254 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png: 730 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png: 1394 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png: 1190 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png: 1189 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png: 795 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png: 1105 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png: 1026 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png: 1033 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png: 682 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png: 1192 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png: 1000 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png: 991 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png: 787 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png: 1102 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png: 1035 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png: 1034 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png: 679 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png: 1206 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png: 997 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png: 997 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_full_cancel.png: 409 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_full_sad.png: 1227 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png: 1233 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_focused.9.png: 1826 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_normal.9.png: 1742 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png: 1716 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabled.9.png: 928 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_focused.9.png: 1793 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_normal.9.png: 1673 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png: 1654 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disabled.9.png: 1282 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused.9.png: 1939 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_normal.9.png: 1824 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_pressed.9.png: 1804 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_text_light_disabled.9.png: 973 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_text_light_focused.9.png: 1985 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_text_light_normal.9.png: 1742 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_google_signin_btn_text_light_pressed.9.png: 1720 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png: 1212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png: 1704 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png: 1608 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png: 1618 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png: 934 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_focused.9.png: 1813 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_normal.9.png: 1591 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png: 1587 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png: 1252 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_focused.9.png: 1779 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.png: 1666 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png: 1708 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_disabled.9.png: 961 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_focused.9.png: 1899 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_normal.9.png: 1647 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_pressed.9.png: 1640 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-v21/generic_confirmation.xml: 2468 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-v21/generic_confirmation_animation.xml: 696 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-v21/open_on_phone.xml: 4520 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-v21/open_on_phone_animation.xml: 788 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/card_frame.9.png: 874 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/card_frame_pressed.9.png: 933 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png: 1519 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png: 2513 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png: 2361 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png: 2332 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png: 1197 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focused.9.png: 2691 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png: 2221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png: 2234 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png: 1630 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused.9.png: 2633 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png: 2476 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png: 2442 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png: 1270 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_text_light_focused.9.png: 2800 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png: 2331 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png: 2337 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png: 1305 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png: 2029 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png: 1878 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png: 1879 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png: 1057 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png: 2251 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png: 1810 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png: 1817 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png: 1385 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png: 2139 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png: 1970 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png: 1954 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png: 1122 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png: 2338 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9.png: 1869 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png: 1901 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_full_cancel.png: 452 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_full_sad.png: 646 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png: 2180 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png: 3770 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png: 3431 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png: 3384 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png: 1667 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png: 4073 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png: 3249 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png: 3214 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png: 2432 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png: 3988 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png: 3694 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png: 3650 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png: 1865 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png: 4335 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png: 3477 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png: 3500 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png: 1922 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png: 3080 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png: 2792 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png: 2813 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png: 1529 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png: 3494 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png: 2718 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png: 2734 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png: 2137 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png: 3340 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png: 3035 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png: 3080 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png: 1704 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png: 3800 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png: 2936 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png: 3020 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable/action_item_background.xml: 336 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/action_item_icon_background.xml: 436 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/card_background.xml: 560 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/close_button.xml: 1788 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/common_google_signin_btn_icon_dark.xml: 836 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/common_google_signin_btn_icon_light.xml: 836 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/common_google_signin_btn_text_dark.xml: 836 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/common_google_signin_btn_text_light.xml: 836 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/common_plus_signin_btn_icon_dark.xml: 836 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/common_plus_signin_btn_icon_light.xml: 836 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/common_plus_signin_btn_text_dark.xml: 836 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/common_plus_signin_btn_text_light.xml: 836 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/ic_more_horiz_24dp_wht.xml: 1052 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/ic_more_vert_24dp_wht.xml: 1048 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/interpolator/generic_confirmation_animation_interpolator_0.xml: 328 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/interpolator/generic_confirmation_animation_interpolator_1.xml: 332 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/interpolator/generic_confirmation_animation_interpolator_2.xml: 464 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/interpolator/generic_confirmation_animation_interpolator_3.xml: 340 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/interpolator/open_on_phone_animation_interpolator_0.xml: 328 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/interpolator/open_on_phone_animation_interpolator_1.xml: 348 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v20/watch_card_content.xml: 900 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/dismiss_overlay.xml: 1236 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/action_drawer_item_view.xml: 912 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/action_drawer_peek_view.xml: 676 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/alert_dialog_wearable.xml: 1928 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/error_layout.xml: 1116 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/navigation_drawer_item_view.xml: 876 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/navigation_drawer_view.xml: 892 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/overlay_confirmation.xml: 1100 bytes (replaced with small dummy file of size 104 bytes)

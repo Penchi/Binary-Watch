@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout-v20\\watch_card_content.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout-v20\\watch_card_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout-v20\\watch_card_content.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout-v20\\watch_card_content.xml"
+    }
+]

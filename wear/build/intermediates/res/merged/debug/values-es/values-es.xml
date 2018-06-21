@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals formatted="false" msgid="7742631289175833205" name="time_difference_short_days">
+      <item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> d</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_DAYS_0">%d</ns1:g> d</item>
+    </plurals>
+    <plurals formatted="false" msgid="5517328857835062796" name="time_difference_short_hours">
+      <item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> h</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_HOURS_0">%d</ns1:g> h</item>
+    </plurals>
+    <plurals formatted="false" msgid="7359384479137727610" name="time_difference_short_minutes">
+      <item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> min</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_0">%d</ns1:g> min</item>
+    </plurals>
+    <plurals formatted="false" msgid="2946369038647898503" name="time_difference_words_days">
+      <item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> días</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_DAYS_0">%d</ns1:g> día</item>
+    </plurals>
+    <plurals formatted="false" msgid="54021993005249478" name="time_difference_words_hours">
+      <item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> horas</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_HOURS_0">%d</ns1:g> hora</item>
+    </plurals>
+    <plurals formatted="false" msgid="6039601245972500593" name="time_difference_words_minutes">
+      <item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> min</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_0">%d</ns1:g> min</item>
+    </plurals>
+    <string name="Ayuda">Ayuda</string>
+    <string name="Blanco">Blanco</string>
+    <string name="Fondo">Fondo</string>
+    <string name="Negro">Negro</string>
+    <string name="Nombre_reloj">Reloj binario</string>
+    <string name="acercaDe">Acerca de</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="app_name">Binary Watch</string>
+    <string name="azul">Azul</string>
+    <string name="circulo">Circulo</string>
+    <string name="colores">Colores</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Habilitar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Descargar Servicios de Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si Servicios de Google Play no está instalado en tu teléfono."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si Servicios de Google Play no está instalado en tu tablet."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas conServicios de Google Play. Si el problema persiste, ponte en contacto con el desarrollador para obtener ayuda."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> se basa en Servicios de Google Play, pero no es compatible con tu dispositivo. Ponte en contacto con el fabricante para obtener asistencia."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualicesServicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Actualizando Servicios de Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="cyan">Cyan</string>
+    <string name="desarrollado">Desarrollado por Aarón Angulo</string>
+    <string msgid="8455537630633057684" name="dismiss_overlay_button_label">"Salir"</string>
+    <string name="fecha">Fecha</string>
+    <string name="figuras">Figuras</string>
+    <string name="formato">24 Horas</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="horas">Horas</string>
+    <string name="magenta">Magenta</string>
+    <string name="minutos">Minutos</string>
+    <string name="personalizar">Personalizar</string>
+    <string name="randomTxt">Aleatorio</string>
+    <string name="rojo">Rojo</string>
+    <string name="segundero">Segundero</string>
+    <string name="segundos">Segundos</string>
+    <string name="sugerencias">Sugerencias a</string>
+    <string msgid="1674592248188350347" name="time_difference_now">"ahora"</string>
+    <string msgid="7277518582146396827" name="time_difference_short_days_and_hours">"<ns1:g id="SHORT_DAYS">%1$s</ns1:g> <ns1:g id="SHORT_HOURS">%2$s</ns1:g>"</string>
+    <string msgid="4986220553102177066" name="time_difference_short_hours_and_minutes">"<ns1:g id="SHORT_HOURS">%1$s</ns1:g> <ns1:g id="SHORT_MINUTES">%2$s</ns1:g>"</string>
+    <string name="title_activity_colores">ColoresActivity</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="title_activity_config_activity">config_activity</string>
+    <string name="title_activity_creditos">CreditosActivity</string>
+    <string name="toastColoresError">Selecciona un componente</string>
+    <string name="toastColoresExito">Cambios realizados</string>
+    <string name="verde">Verde</string>
+</resources>

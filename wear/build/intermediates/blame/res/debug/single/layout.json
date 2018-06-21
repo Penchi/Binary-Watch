@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_wearable.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\overlay_confirmation.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\overlay_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\action_drawer_peek_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creditos.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\activity_creditos.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\error_layout.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\error_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\wearable_drawer_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\wearable_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\rect_activity_colores.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\rect_activity_colores.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\error_layout.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\error_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\rect_activity_colores.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\rect_activity_colores.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\activity_colores.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\activity_colores.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\rect_activity_config.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\rect_activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\action_drawer_item_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\action_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\action_drawer_item_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\action_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\rect_activity_creditos.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\rect_activity_creditos.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\round_activity_creditos.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\round_activity_creditos.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\rect_activity_creditos.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\rect_activity_creditos.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\wearable_drawer_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\wearable_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_wearable.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_item_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\rect_activity_config.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\rect_activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\round_activity_creditos.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\round_activity_creditos.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\overlay_confirmation.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\overlay_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\round_activity_colores.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\round_activity_colores.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\action_drawer_peek_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\round_activity_config.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\round_activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_item_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\navigation_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_view.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha2\\res\\layout\\navigation_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\round_activity_colores.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\round_activity_colores.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\activity_colores.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Binarywatch\\wear\\src\\main\\res\\layout\\activity_colores.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creditos.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\activity_creditos.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\build\\intermediates\\res\\merged\\debug\\layout\\round_activity_config.xml",
+        "source": "C:\\Users\\orlan\\Desktop\\Sigma Brio\\Android Studio\\Binarywatch\\wear\\src\\main\\res\\layout\\round_activity_config.xml"
+    }
+]
